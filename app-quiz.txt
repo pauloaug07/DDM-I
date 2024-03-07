@@ -18,6 +18,7 @@ APP - QUIZ DE DESENHOS ANIMADOS:
 -Perguntas de verdadeiro ou falso, múltipla escolha, escolha única, etc.;
 -Temporizador nas perguntas (Opcional);
 -Contagem do tempo de conclusão do quiz (Sem temporizador);
--3 quiz diferentes: Fácil, Médio, Difícil;
+-3 quiz diferentes: Desenhos clássicos, Anime, Desenhos antigos;
+-3 níveis de perguntas diferentes: fácil, médio, difícil;
 -Música de fundo (Opcional -> *Configurações);
 -Compartilhar pontuação por apps (Twitter, Whatsapp, Facebook);
