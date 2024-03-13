@@ -1,24 +1,15 @@
 ETAPAS - APP MULTIPLATAFORMA:
--Prototipagem em papel (obrigatório)
+-Prototipagem em papel (opcional)
 -Fluxograma
 -Pesquisa no Word (Sobre: Multiplataformas) -> Apresentação do app
--Apresentação no PowerPoint (Botõesa com hyperlink)
+-Apresentação no PowerPoint (Botões com hyperlink)
 
 APP - QUIZ DE DESENHOS ANIMADOS:
--Cadastro/Login (Opcional);
--Configurações: Tema escuro/claro; Som ativado/desativado; 
- Conta (Sair, registro de pontuações, foto de perfil do usuário, 
- mudar nickname);
--Divisões de pontuação: Bronze, Prata, Ouro, Platina;
--Conquistas de troféus disponíveis no perfil baseada nas divisões de pontuação;
--Registro de pontuações do usuário;
--Ranking de pontuações (Disponível para quem estar logado) baseado 
- em categorias (Com ou sem temporizador; Divisões (Ouro, Bronze...);
+-Configurações: Tema escuro/claro; Som ativado/desativado; Música de fundo (ativado/desativado); 
+-Registro de pontuações (incluindo tempo)
 -Escolha de mostrar o progresso (pontuação) durante o quiz;
 -Perguntas de verdadeiro ou falso, múltipla escolha, escolha única, etc.;
 -Temporizador nas perguntas (Opcional);
 -Contagem do tempo de conclusão do quiz (Sem temporizador);
--3 quiz diferentes: Desenhos clássicos/normais, Anime, Desenhos antigos;
--3 níveis de perguntas diferentes: fácil, médio, difícil;
--Música de fundo (Opcional -> *Configurações);
+-3 quiz diferentes: Fácil, Médio, Difícil;
 -Compartilhar pontuação por apps (Twitter, Whatsapp, Facebook);
